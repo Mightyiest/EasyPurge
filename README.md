@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to improve this addon, please follow th
 
 If you encounter any issues or have questions, please open an issue on GitHub or contact the author.
 Discord@Mightyiest
-
+Buy me a Coffeee plzzz https://mightyiest.gumroad.com/l/EasyPurge
 ---
 
 ## Credits
