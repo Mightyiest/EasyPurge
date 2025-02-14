@@ -77,6 +77,7 @@ Contributions are welcome! If you'd like to improve this addon, please follow th
 ## Support
 
 If you encounter any issues or have questions, please open an issue on GitHub or contact the author.
+Discord@Mightyiest
 
 ---
 
